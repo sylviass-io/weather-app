@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../PlusWeek3.html"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HomeworkPlus6"
+  }
+}

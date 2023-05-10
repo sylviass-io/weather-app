@@ -1,0 +1,33 @@
+h1,
+h2,
+h3 {
+  padding: 20px;
+  margin: 0, auto;
+  font-size: 40px;
+  display: block;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0, auto;
+  font-size: 40px;
+  text-align: center;
+}
+
+.container {
+  background-image: url("https://cdn.windowsreport.com/wp-content/uploads/2019/08/Storm-Weather-930x620.jpg");
+
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+form {
+  margin: 20px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: larger;
+}
+body {
+  color: white;
+}
